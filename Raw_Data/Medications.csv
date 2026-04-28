@@ -1,0 +1,415 @@
+visit_id,medication_name,dosage
+1,Paracetamol,2/day
+2,Amlodipine,1/day
+3,Antibiotic,1/day
+4,ORS,1/day
+5,Aspirin,as needed
+6,ORS,1/day
+7,Antibiotic,2/day
+8,Ibuprofen,1/day
+9,Amlodipine,1/day
+10,Ibuprofen,1/day
+11,Antibiotic,2/day
+12,Amlodipine,1/day
+13,Aspirin,as needed
+14,Paracetamol,1/day
+15,Paracetamol,3/day
+16,Ibuprofen,2/day
+17,Aspirin,as needed
+18,Paracetamol,3/day
+19,Ibuprofen,1/day
+20,ORS,1/day
+21,Ibuprofen,2/day
+22,Aspirin,1/day
+23,ORS,3/day
+24,ORS,as needed
+25,Aspirin,3/day
+26,Aspirin,3/day
+27,ORS,1/day
+28,Ibuprofen,3/day
+29,Antibiotic,3/day
+30,Aspirin,2/day
+31,Ibuprofen,as needed
+32,Ibuprofen,2/day
+33,Antibiotic,2/day
+34,ORS,3/day
+35,Aspirin,as needed
+36,ORS,as needed
+37,Paracetamol,as needed
+38,ORS,1/day
+39,ORS,as needed
+40,Antibiotic,3/day
+41,Aspirin,1/day
+42,Antibiotic,3/day
+43,ORS,as needed
+44,Ibuprofen,as needed
+45,Amlodipine,3/day
+46,Amlodipine,1/day
+47,ORS,as needed
+48,Amlodipine,3/day
+49,Paracetamol,1/day
+50,Ibuprofen,1/day
+51,ORS,as needed
+52,Ibuprofen,3/day
+53,Aspirin,as needed
+54,Amlodipine,3/day
+55,Paracetamol,3/day
+56,ORS,2/day
+57,Amlodipine,2/day
+58,Antibiotic,3/day
+59,Paracetamol,as needed
+60,Amlodipine,1/day
+61,Antibiotic,2/day
+62,Paracetamol,as needed
+63,ORS,1/day
+64,Amlodipine,as needed
+65,Ibuprofen,as needed
+66,Amlodipine,2/day
+67,Antibiotic,1/day
+68,Paracetamol,as needed
+69,Ibuprofen,1/day
+70,ORS,2/day
+71,Antibiotic,as needed
+72,ORS,1/day
+73,Aspirin,as needed
+74,ORS,2/day
+75,Paracetamol,2/day
+76,Aspirin,3/day
+77,Antibiotic,as needed
+78,Ibuprofen,3/day
+79,Amlodipine,2/day
+80,Antibiotic,2/day
+81,Paracetamol,as needed
+82,Antibiotic,as needed
+83,Ibuprofen,1/day
+84,ORS,as needed
+85,Amlodipine,2/day
+86,Amlodipine,2/day
+87,Aspirin,3/day
+88,Amlodipine,1/day
+89,ORS,2/day
+90,Ibuprofen,1/day
+91,ORS,2/day
+92,Antibiotic,as needed
+93,Ibuprofen,3/day
+94,ORS,1/day
+95,ORS,1/day
+96,ORS,2/day
+97,Antibiotic,2/day
+98,Paracetamol,3/day
+99,Antibiotic,3/day
+100,Aspirin,3/day
+101,ORS,2/day
+102,Ibuprofen,1/day
+103,Ibuprofen,3/day
+104,Antibiotic,as needed
+105,Aspirin,3/day
+106,Amlodipine,3/day
+107,ORS,1/day
+108,ORS,2/day
+109,Amlodipine,2/day
+110,Amlodipine,3/day
+111,Ibuprofen,as needed
+112,Aspirin,2/day
+113,Antibiotic,3/day
+114,Amlodipine,2/day
+115,Aspirin,1/day
+116,Aspirin,2/day
+117,Aspirin,3/day
+118,Ibuprofen,3/day
+119,Ibuprofen,1/day
+120,Antibiotic,2/day
+121,Paracetamol,2/day
+122,Aspirin,2/day
+123,Paracetamol,3/day
+124,Antibiotic,as needed
+125,Ibuprofen,as needed
+126,Paracetamol,3/day
+127,Ibuprofen,3/day
+128,Aspirin,3/day
+129,Antibiotic,1/day
+130,Ibuprofen,as needed
+131,Paracetamol,1/day
+132,Aspirin,2/day
+133,ORS,as needed
+134,Paracetamol,1/day
+135,Amlodipine,1/day
+136,Aspirin,2/day
+137,Antibiotic,1/day
+138,Aspirin,3/day
+139,ORS,as needed
+140,Amlodipine,2/day
+141,ORS,2/day
+142,Ibuprofen,3/day
+143,Aspirin,3/day
+144,Amlodipine,1/day
+145,Aspirin,1/day
+146,Antibiotic,as needed
+147,ORS,3/day
+148,Paracetamol,2/day
+149,ORS,2/day
+150,Amlodipine,1/day
+151,Paracetamol,3/day
+152,Ibuprofen,2/day
+153,ORS,2/day
+154,Amlodipine,3/day
+155,Paracetamol,3/day
+156,ORS,as needed
+157,Ibuprofen,3/day
+158,Paracetamol,2/day
+159,Amlodipine,1/day
+160,Ibuprofen,as needed
+161,Aspirin,3/day
+162,Aspirin,2/day
+163,Aspirin,3/day
+164,Aspirin,3/day
+165,Paracetamol,as needed
+166,Ibuprofen,1/day
+167,Ibuprofen,as needed
+168,Antibiotic,1/day
+169,Antibiotic,2/day
+170,Antibiotic,2/day
+171,Amlodipine,2/day
+172,Ibuprofen,as needed
+173,Antibiotic,as needed
+174,Antibiotic,2/day
+175,Antibiotic,3/day
+176,Paracetamol,as needed
+177,Aspirin,3/day
+178,Paracetamol,1/day
+179,Amlodipine,3/day
+180,Antibiotic,2/day
+181,Ibuprofen,as needed
+182,Aspirin,1/day
+183,ORS,3/day
+184,Ibuprofen,as needed
+185,Aspirin,as needed
+186,Amlodipine,1/day
+187,ORS,3/day
+188,Antibiotic,3/day
+189,ORS,2/day
+190,Ibuprofen,2/day
+191,Ibuprofen,as needed
+192,Antibiotic,as needed
+193,Amlodipine,1/day
+194,Amlodipine,3/day
+195,Antibiotic,1/day
+196,Ibuprofen,1/day
+197,Antibiotic,as needed
+198,Paracetamol,as needed
+199,Amlodipine,as needed
+200,Paracetamol,2/day
+201,ORS,2/day
+202,ORS,3/day
+203,Aspirin,2/day
+204,Amlodipine,2/day
+205,Ibuprofen,1/day
+206,Amlodipine,3/day
+207,Paracetamol,1/day
+208,Paracetamol,3/day
+209,ORS,3/day
+210,Ibuprofen,1/day
+211,Antibiotic,2/day
+212,ORS,3/day
+213,Ibuprofen,1/day
+214,Aspirin,3/day
+215,Paracetamol,as needed
+216,Amlodipine,3/day
+217,Paracetamol,1/day
+218,Paracetamol,2/day
+219,Ibuprofen,as needed
+220,ORS,2/day
+221,Aspirin,as needed
+222,Antibiotic,as needed
+223,Aspirin,1/day
+224,Antibiotic,as needed
+225,Amlodipine,3/day
+226,Ibuprofen,2/day
+227,Aspirin,3/day
+228,Aspirin,2/day
+229,Paracetamol,as needed
+230,ORS,1/day
+231,Antibiotic,1/day
+232,Paracetamol,2/day
+233,Ibuprofen,as needed
+234,Amlodipine,1/day
+235,Antibiotic,as needed
+236,Paracetamol,2/day
+237,Ibuprofen,2/day
+238,Aspirin,2/day
+239,Ibuprofen,2/day
+240,Paracetamol,2/day
+241,Amlodipine,1/day
+242,Amlodipine,2/day
+243,Antibiotic,2/day
+244,Aspirin,1/day
+245,Aspirin,2/day
+246,Ibuprofen,1/day
+247,Amlodipine,1/day
+248,ORS,2/day
+249,Ibuprofen,2/day
+250,ORS,2/day
+251,Ibuprofen,as needed
+252,Ibuprofen,as needed
+253,Aspirin,1/day
+254,ORS,2/day
+255,Paracetamol,3/day
+256,Aspirin,2/day
+257,Amlodipine,1/day
+258,Paracetamol,as needed
+259,Aspirin,2/day
+260,Amlodipine,3/day
+261,ORS,1/day
+262,Aspirin,as needed
+263,ORS,1/day
+264,Antibiotic,1/day
+265,Antibiotic,3/day
+266,Paracetamol,as needed
+267,ORS,as needed
+268,Amlodipine,2/day
+269,Aspirin,as needed
+270,Paracetamol,3/day
+271,Amlodipine,1/day
+272,ORS,1/day
+273,Ibuprofen,as needed
+274,Paracetamol,as needed
+275,ORS,as needed
+276,Antibiotic,as needed
+277,Amlodipine,as needed
+278,ORS,as needed
+279,Ibuprofen,as needed
+280,Paracetamol,2/day
+281,Paracetamol,as needed
+282,ORS,1/day
+283,Paracetamol,3/day
+284,ORS,3/day
+285,Antibiotic,2/day
+286,Ibuprofen,3/day
+287,ORS,as needed
+288,Paracetamol,1/day
+289,ORS,as needed
+290,Aspirin,as needed
+291,ORS,2/day
+292,Antibiotic,2/day
+293,Amlodipine,3/day
+294,Antibiotic,3/day
+295,Ibuprofen,3/day
+296,Aspirin,3/day
+297,Aspirin,1/day
+298,Paracetamol,3/day
+299,Aspirin,3/day
+300,Paracetamol,2/day
+301,Antibiotic,3/day
+302,ORS,3/day
+303,ORS,as needed
+304,Amlodipine,as needed
+305,Paracetamol,as needed
+306,Amlodipine,3/day
+307,Aspirin,2/day
+308,Ibuprofen,1/day
+309,Antibiotic,as needed
+310,Paracetamol,2/day
+311,Aspirin,as needed
+312,Amlodipine,2/day
+313,Ibuprofen,1/day
+314,Amlodipine,1/day
+315,Amlodipine,3/day
+316,ORS,as needed
+317,Aspirin,3/day
+318,Antibiotic,1/day
+319,Amlodipine,1/day
+320,Ibuprofen,as needed
+321,Antibiotic,as needed
+322,Paracetamol,1/day
+323,Paracetamol,2/day
+324,Paracetamol,3/day
+325,Antibiotic,1/day
+326,Aspirin,2/day
+327,Paracetamol,as needed
+328,Aspirin,2/day
+329,ORS,1/day
+330,ORS,1/day
+331,Ibuprofen,3/day
+332,Amlodipine,1/day
+333,Ibuprofen,1/day
+334,Paracetamol,as needed
+335,Antibiotic,2/day
+336,Antibiotic,1/day
+337,Paracetamol,2/day
+338,Paracetamol,3/day
+339,Paracetamol,3/day
+340,ORS,as needed
+341,Antibiotic,1/day
+342,ORS,2/day
+343,Amlodipine,as needed
+344,Antibiotic,2/day
+345,Ibuprofen,1/day
+346,Antibiotic,1/day
+347,Antibiotic,1/day
+348,Paracetamol,3/day
+349,Amlodipine,2/day
+350,Paracetamol,1/day
+351,Amlodipine,1/day
+352,Paracetamol,2/day
+353,Ibuprofen,3/day
+354,Antibiotic,as needed
+355,Ibuprofen,2/day
+356,Paracetamol,3/day
+357,Ibuprofen,1/day
+358,ORS,as needed
+359,Aspirin,1/day
+360,ORS,3/day
+361,Antibiotic,3/day
+362,Antibiotic,as needed
+363,Paracetamol,2/day
+364,Amlodipine,3/day
+365,Ibuprofen,1/day
+366,Amlodipine,3/day
+367,Ibuprofen,1/day
+368,Paracetamol,3/day
+369,Antibiotic,2/day
+370,Antibiotic,1/day
+371,Amlodipine,2/day
+372,Aspirin,3/day
+373,Paracetamol,as needed
+374,Antibiotic,2/day
+375,Paracetamol,3/day
+376,Aspirin,1/day
+377,Ibuprofen,1/day
+378,ORS,as needed
+379,Amlodipine,1/day
+380,Paracetamol,as needed
+381,ORS,3/day
+382,Amlodipine,2/day
+383,Ibuprofen,2/day
+384,Ibuprofen,1/day
+385,Antibiotic,1/day
+386,ORS,3/day
+387,Aspirin,as needed
+388,Aspirin,1/day
+389,ORS,3/day
+390,Paracetamol,3/day
+391,Amlodipine,2/day
+392,Amlodipine,3/day
+393,Antibiotic,3/day
+394,ORS,1/day
+395,Ibuprofen,3/day
+396,Antibiotic,1/day
+397,Amlodipine,3/day
+398,Amlodipine,as needed
+399,Antibiotic,3/day
+400,ORS,3/day
+401,ORS,3/day
+402,Aspirin,2/day
+403,Amlodipine,2/day
+404,ORS,as needed
+405,Aspirin,as needed
+406,ORS,3/day
+407,ORS,1/day
+408,Ibuprofen,3/day
+409,Aspirin,1/day
+410,Aspirin,2/day
+411,Amlodipine,as needed
+412,Amlodipine,3/day
+413,Amlodipine,1/day
+414,Amlodipine,2/day

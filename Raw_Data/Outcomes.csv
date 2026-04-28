@@ -1,0 +1,415 @@
+visit_id,outcome,readmission_flag
+1,Not Recovered,1
+2,Recovered,0
+3,Not Recovered,1
+4,Recovered,0
+5,Not Recovered,0
+6,Recovered,0
+7,Recovered,0
+8,Not Recovered,1
+9,Not Recovered,0
+10,Not Recovered,1
+11,Recovered,1
+12,Recovered,0
+13,Not Recovered,0
+14,Not Recovered,0
+15,Recovered,0
+16,Recovered,0
+17,Not Recovered,1
+18,Not Recovered,0
+19,Not Recovered,0
+20,Not Recovered,1
+21,Not Recovered,0
+22,Not Recovered,1
+23,Recovered,1
+24,Recovered,0
+25,Recovered,1
+26,Recovered,1
+27,Recovered,0
+28,Recovered,0
+29,Recovered,0
+30,Not Recovered,0
+31,Recovered,1
+32,Not Recovered,1
+33,Recovered,1
+34,Not Recovered,0
+35,Recovered,0
+36,Recovered,0
+37,Recovered,1
+38,Not Recovered,1
+39,Recovered,0
+40,Recovered,0
+41,Not Recovered,0
+42,Recovered,1
+43,Not Recovered,0
+44,Recovered,1
+45,Not Recovered,1
+46,Recovered,0
+47,Recovered,1
+48,Not Recovered,0
+49,Recovered,0
+50,Recovered,1
+51,Not Recovered,0
+52,Not Recovered,0
+53,Recovered,1
+54,Not Recovered,1
+55,Not Recovered,0
+56,Not Recovered,1
+57,Not Recovered,1
+58,Not Recovered,0
+59,Not Recovered,0
+60,Not Recovered,0
+61,Recovered,0
+62,Recovered,0
+63,Not Recovered,1
+64,Not Recovered,1
+65,Not Recovered,1
+66,Recovered,0
+67,Not Recovered,1
+68,Recovered,1
+69,Recovered,0
+70,Recovered,0
+71,Not Recovered,1
+72,Not Recovered,1
+73,Not Recovered,0
+74,Not Recovered,0
+75,Recovered,1
+76,Not Recovered,1
+77,Recovered,0
+78,Not Recovered,1
+79,Not Recovered,1
+80,Recovered,0
+81,Recovered,1
+82,Recovered,1
+83,Recovered,1
+84,Recovered,0
+85,Recovered,0
+86,Not Recovered,0
+87,Recovered,1
+88,Recovered,0
+89,Not Recovered,0
+90,Not Recovered,1
+91,Recovered,0
+92,Not Recovered,0
+93,Recovered,0
+94,Recovered,1
+95,Not Recovered,0
+96,Not Recovered,0
+97,Not Recovered,0
+98,Not Recovered,1
+99,Recovered,1
+100,Not Recovered,0
+101,Not Recovered,0
+102,Not Recovered,0
+103,Not Recovered,0
+104,Not Recovered,1
+105,Not Recovered,1
+106,Not Recovered,1
+107,Recovered,1
+108,Recovered,1
+109,Recovered,1
+110,Recovered,0
+111,Recovered,0
+112,Not Recovered,1
+113,Not Recovered,0
+114,Recovered,0
+115,Not Recovered,1
+116,Not Recovered,1
+117,Not Recovered,0
+118,Recovered,0
+119,Not Recovered,0
+120,Recovered,0
+121,Recovered,1
+122,Not Recovered,0
+123,Not Recovered,0
+124,Recovered,0
+125,Not Recovered,0
+126,Recovered,0
+127,Recovered,0
+128,Not Recovered,0
+129,Recovered,1
+130,Not Recovered,1
+131,Not Recovered,1
+132,Not Recovered,1
+133,Not Recovered,1
+134,Recovered,0
+135,Not Recovered,1
+136,Recovered,0
+137,Not Recovered,0
+138,Not Recovered,1
+139,Recovered,0
+140,Recovered,0
+141,Not Recovered,1
+142,Recovered,0
+143,Recovered,1
+144,Recovered,1
+145,Recovered,0
+146,Not Recovered,1
+147,Not Recovered,0
+148,Recovered,1
+149,Recovered,0
+150,Recovered,0
+151,Recovered,0
+152,Not Recovered,0
+153,Not Recovered,0
+154,Not Recovered,1
+155,Not Recovered,1
+156,Recovered,1
+157,Not Recovered,1
+158,Recovered,1
+159,Recovered,1
+160,Recovered,0
+161,Recovered,1
+162,Not Recovered,0
+163,Not Recovered,1
+164,Not Recovered,1
+165,Recovered,1
+166,Recovered,0
+167,Recovered,1
+168,Recovered,0
+169,Not Recovered,0
+170,Not Recovered,1
+171,Not Recovered,0
+172,Not Recovered,1
+173,Recovered,0
+174,Recovered,0
+175,Not Recovered,0
+176,Recovered,0
+177,Not Recovered,0
+178,Not Recovered,0
+179,Recovered,0
+180,Not Recovered,1
+181,Not Recovered,1
+182,Recovered,0
+183,Not Recovered,1
+184,Not Recovered,0
+185,Recovered,0
+186,Not Recovered,0
+187,Not Recovered,0
+188,Recovered,1
+189,Recovered,0
+190,Not Recovered,1
+191,Not Recovered,1
+192,Recovered,0
+193,Not Recovered,0
+194,Recovered,0
+195,Recovered,0
+196,Not Recovered,0
+197,Not Recovered,1
+198,Not Recovered,1
+199,Not Recovered,1
+200,Recovered,1
+201,Not Recovered,0
+202,Not Recovered,0
+203,Recovered,0
+204,Recovered,0
+205,Not Recovered,0
+206,Not Recovered,1
+207,Recovered,1
+208,Recovered,1
+209,Not Recovered,1
+210,Not Recovered,1
+211,Recovered,1
+212,Recovered,1
+213,Not Recovered,1
+214,Recovered,0
+215,Not Recovered,0
+216,Not Recovered,1
+217,Recovered,0
+218,Not Recovered,0
+219,Recovered,0
+220,Recovered,0
+221,Recovered,1
+222,Recovered,1
+223,Recovered,0
+224,Not Recovered,1
+225,Not Recovered,0
+226,Not Recovered,1
+227,Not Recovered,0
+228,Recovered,0
+229,Recovered,0
+230,Recovered,0
+231,Recovered,0
+232,Recovered,1
+233,Recovered,1
+234,Recovered,0
+235,Recovered,0
+236,Recovered,1
+237,Recovered,1
+238,Recovered,0
+239,Recovered,1
+240,Not Recovered,1
+241,Not Recovered,1
+242,Not Recovered,0
+243,Recovered,0
+244,Not Recovered,0
+245,Recovered,1
+246,Recovered,0
+247,Not Recovered,0
+248,Recovered,0
+249,Not Recovered,1
+250,Recovered,0
+251,Not Recovered,0
+252,Recovered,1
+253,Recovered,1
+254,Recovered,0
+255,Not Recovered,1
+256,Recovered,1
+257,Recovered,1
+258,Recovered,0
+259,Not Recovered,0
+260,Recovered,1
+261,Not Recovered,1
+262,Not Recovered,1
+263,Recovered,1
+264,Not Recovered,1
+265,Not Recovered,1
+266,Not Recovered,0
+267,Not Recovered,1
+268,Not Recovered,0
+269,Recovered,1
+270,Not Recovered,1
+271,Not Recovered,0
+272,Not Recovered,0
+273,Recovered,0
+274,Not Recovered,1
+275,Recovered,0
+276,Not Recovered,0
+277,Not Recovered,0
+278,Recovered,0
+279,Not Recovered,1
+280,Recovered,1
+281,Recovered,1
+282,Recovered,1
+283,Not Recovered,1
+284,Recovered,1
+285,Not Recovered,0
+286,Not Recovered,0
+287,Not Recovered,1
+288,Recovered,1
+289,Recovered,0
+290,Recovered,0
+291,Not Recovered,0
+292,Not Recovered,0
+293,Not Recovered,1
+294,Recovered,1
+295,Recovered,1
+296,Recovered,0
+297,Not Recovered,1
+298,Recovered,0
+299,Not Recovered,1
+300,Recovered,1
+301,Recovered,1
+302,Recovered,0
+303,Recovered,1
+304,Recovered,0
+305,Recovered,1
+306,Recovered,1
+307,Not Recovered,0
+308,Not Recovered,1
+309,Not Recovered,1
+310,Recovered,0
+311,Recovered,1
+312,Not Recovered,1
+313,Not Recovered,1
+314,Recovered,0
+315,Not Recovered,0
+316,Recovered,0
+317,Not Recovered,0
+318,Recovered,1
+319,Recovered,0
+320,Not Recovered,1
+321,Recovered,0
+322,Recovered,1
+323,Recovered,0
+324,Not Recovered,0
+325,Not Recovered,0
+326,Recovered,0
+327,Recovered,0
+328,Recovered,1
+329,Not Recovered,0
+330,Not Recovered,1
+331,Recovered,1
+332,Not Recovered,1
+333,Not Recovered,0
+334,Not Recovered,0
+335,Recovered,0
+336,Not Recovered,0
+337,Recovered,1
+338,Recovered,1
+339,Recovered,1
+340,Not Recovered,0
+341,Recovered,1
+342,Not Recovered,1
+343,Recovered,1
+344,Recovered,1
+345,Recovered,0
+346,Recovered,1
+347,Recovered,0
+348,Recovered,1
+349,Not Recovered,0
+350,Not Recovered,1
+351,Not Recovered,1
+352,Recovered,1
+353,Recovered,0
+354,Recovered,1
+355,Not Recovered,1
+356,Not Recovered,1
+357,Recovered,1
+358,Not Recovered,0
+359,Recovered,0
+360,Not Recovered,1
+361,Recovered,1
+362,Recovered,1
+363,Not Recovered,0
+364,Not Recovered,0
+365,Not Recovered,1
+366,Recovered,1
+367,Recovered,1
+368,Not Recovered,0
+369,Recovered,0
+370,Not Recovered,1
+371,Recovered,0
+372,Not Recovered,1
+373,Not Recovered,0
+374,Not Recovered,1
+375,Recovered,0
+376,Recovered,1
+377,Recovered,0
+378,Not Recovered,1
+379,Recovered,0
+380,Not Recovered,1
+381,Recovered,0
+382,Recovered,1
+383,Not Recovered,0
+384,Not Recovered,1
+385,Recovered,0
+386,Recovered,1
+387,Recovered,0
+388,Not Recovered,1
+389,Not Recovered,1
+390,Recovered,0
+391,Recovered,1
+392,Recovered,1
+393,Not Recovered,1
+394,Not Recovered,0
+395,Not Recovered,1
+396,Recovered,0
+397,Recovered,1
+398,Not Recovered,1
+399,Not Recovered,1
+400,Recovered,0
+401,Not Recovered,0
+402,Recovered,1
+403,Not Recovered,1
+404,Not Recovered,1
+405,Not Recovered,0
+406,Recovered,0
+407,Not Recovered,0
+408,Not Recovered,0
+409,Recovered,1
+410,Recovered,0
+411,Not Recovered,0
+412,Not Recovered,1
+413,Recovered,1
+414,Recovered,1
